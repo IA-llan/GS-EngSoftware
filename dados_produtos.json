@@ -1,0 +1,32 @@
+[
+  {
+    "Item 1":{
+      "nome": "Xbox Series S",
+      "preço": "R$ 2.500",
+      "número de controles": 1,
+      "memoria": "500 GB",
+      "resolução": "Full HD"
+    },
+     "Item 2":{
+      "nome": "PlayStation 5",
+      "preço": "R$ 5.000",
+      "número de controles": 1,
+      "memoria": "500 GB",
+      "resolução": "Full HD"
+    },
+     "Item 3":{
+      "nome": "Steam Deck",
+      "preço": "R$ 1.900 - R$ 3.500",
+      "número de controles": "Controle no próprio console.",
+      "memoria": "212 GB",
+      "resolução": "1280 x 800 px"
+    },
+     "Item 4":{
+      "nome": "Nitendo Switch",
+      "preço": "R$ 2.400",
+      "número de controles": "Controle no próprio console.",
+      "memoria": "10 GB",
+      "resolução": "Full HD"
+    }
+  }
+]
